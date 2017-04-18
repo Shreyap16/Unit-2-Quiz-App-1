@@ -6,7 +6,7 @@
   padding: 1 0 1 0;
 }
 
-.body{
+body{
   text-align: center;
   border-style: solid;
   border: 3 3 3 3;
@@ -14,7 +14,7 @@
   margin-top: 5px;
 }
 
-.question{
+question{
   text-align: center;
   border-style: solid;
   border: 3 3 3 3;
